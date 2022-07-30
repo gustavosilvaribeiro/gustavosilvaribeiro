@@ -16,5 +16,5 @@
 
 ---
 
-![Snake animation](https://github.com/gustavomegusta/gustavomegusta/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 [![](https://visitcount.itsvg.in/api?id=gustavomegusta&icon=3&color=12)](https://visitcount.itsvg.in)
