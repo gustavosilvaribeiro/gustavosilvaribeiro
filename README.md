@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, eu sou Gustavo Ribeiro</h1>
 
->🌱Estudando para ser Full Stak<br><br>📫Entre em contato comigo gustavo.silvarib@gmail.com
+>🌱Estudando para ser Full Stack<br><br>📫Entre em contato comigo gustavo.silvarib@gmail.com
 
 
 ## 🌐 Redes Sociais:
