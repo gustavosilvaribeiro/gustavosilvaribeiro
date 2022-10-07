@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, eu sou Gustavo Ribeiro</h1>
-## Bem vindo ao meu perfil GitHub 👋
+<h1 align="center">Olá , eu sou Gustavo Ribeiro</h1>
+                               <p align="center"> Bem vindo ao meu perfil GitHub </p>
 
 >🌱Estudante de Desenvolvimento Web | Trybe<br><br>📫Entre em contato comigo gustavo.silvarib@gmail.com
 
