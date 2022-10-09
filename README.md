@@ -1,8 +1,9 @@
 <h1 align="center">Olá , eu sou Gustavo Ribeiro</h1>
                                <p align="center"> Bem vindo ao meu perfil GitHub </p>
 
-🌱Estudante de Desenvolvimento Web | Trybe
-### Contatos:
+<p align="center"> 🌱Estudante de Desenvolvimento Web | Trybe </p>
+
+###  Contatos:
 
 <div style="display: inline_block">
   
