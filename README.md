@@ -33,13 +33,14 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
+
+
 ## 📊 GitHub Analytics:
  <div>
- 
-  <img width="51%" src="https://github-readme-stats.vercel.app/api?username=gustavosilvaribeiro&show_icons=true&count_private=true&hide_border=true&title_color=F73BE0&icon_color=F73BE0&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo Ribeiro github stats" /> 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosilvaribeiro&layout=compact&hide_border=true&title_color=F73BE0&text_color=F73BE0&bg_color=0d1117" />
-  </p>
-  </div>
+<a href="https://github.com/gustavosilvaribeiro">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosilvaribeiro&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavosilvaribeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 
 
